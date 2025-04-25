@@ -20,7 +20,12 @@
 
 
 - ⚙️ **Frameworks & Tools**
-  ![images](https://github.com/user-attachments/assets/ce7b387c-1938-402b-a8bf-ec77369e84b0) ![download](https://github.com/user-attachments/assets/c5da073a-621c-4efe-8956-cb5d0f588ceb) ![download](https://github.com/user-attachments/assets/c7b96a78-cc50-4d38-bb32-238ad64b25c6) ![download](https://github.com/user-attachments/assets/563c7351-8747-4ac8-9c17-bf577556e3c3)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/ce7b387c-1938-402b-a8bf-ec77369e84b0" width="200px">
+  <img src="https://github.com/user-attachments/assets/c5da073a-621c-4efe-8956-cb5d0f588ceb" width="200px">
+  <img src="https://github.com/user-attachments/assets/c7b96a78-cc50-4d38-bb32-238ad64b25c6" width="200px">
+  <img src="https://github.com/user-attachments/assets/563c7351-8747-4ac8-9c17-bf577556e3c3" width="200px">
+</div>
 
 
 - 🎮 **Game Dev Vibes**  
