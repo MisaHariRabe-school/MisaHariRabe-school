@@ -9,10 +9,12 @@
 ## 🧠 What I Know & Love
 
 - 💻 **Languages**  
-  JavaScript / TypeScript / Node.js / PHP / C++ / HTML / CSS / Python (un peu)
+  ![download](https://github.com/user-attachments/assets/af0ce974-bb72-4047-a02d-c6ccc05fc63e) ![download](https://github.com/user-attachments/assets/a114aa5b-0a5d-4201-8e00-62e35cfa42e9) ![nodejs-1-logo-png-transparent](https://github.com/user-attachments/assets/16f31135-1c4f-48c4-a382-c1376c5b1adc) ![PHP-logo svg](https://github.com/user-attachments/assets/76a6bfe9-6715-4b53-a85a-97beca1ee545) ![download](https://github.com/user-attachments/assets/e4bb6fc2-fe41-4337-becb-2982ec856f80) ![download](https://github.com/user-attachments/assets/2ccab695-3b59-4f3f-91ca-d96f162c5c61)
 
-- ⚙️ **Frameworks & Tools**  
-  React • Vite • Tailwind CSS • Firebase • Laravel • SFML • Whisper AI • Flask • Supabase • Tiled • Git & GitHub
+
+- ⚙️ **Frameworks & Tools**
+  ![images](https://github.com/user-attachments/assets/ce7b387c-1938-402b-a8bf-ec77369e84b0) ![download](https://github.com/user-attachments/assets/c5da073a-621c-4efe-8956-cb5d0f588ceb) ![download](https://github.com/user-attachments/assets/c7b96a78-cc50-4d38-bb32-238ad64b25c6) ![download](https://github.com/user-attachments/assets/563c7351-8747-4ac8-9c17-bf577556e3c3)
+
 
 - 🎮 **Game Dev Vibes**  
   - C++ games with SFML (yep, I'm working on a Geometry Dash-like game 👀)  
@@ -50,9 +52,9 @@
 
 ## 📫 Let's Connect!
 
-- GitHub: [@tonpseudo](https://github.com/tonpseudo)  
-- LinkedIn: [linkedin.com/in/tonprofil](#) (à compléter si tu veux)  
-- Email: [ton.email@example.com](mailto:ton.email@example.com)
+- GitHub: [@tMisaHariRabe](https://github.com/MisaHariRabe-school)  
+- LinkedIn: [linkedin.com/in/misaharirabe](https://www.linkedin.com/in/misaharirabe/)  
+- Email: [misandratra.freelance@gmail.com](mailto:misandratra.freelance@gmail.com)
 
 ---
 
