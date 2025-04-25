@@ -8,8 +8,15 @@
 
 ## 🧠 What I Know & Love
 
-- 💻 **Languages**  
-  ![download](https://github.com/user-attachments/assets/af0ce974-bb72-4047-a02d-c6ccc05fc63e) ![download](https://github.com/user-attachments/assets/a114aa5b-0a5d-4201-8e00-62e35cfa42e9) ![nodejs-1-logo-png-transparent](https://github.com/user-attachments/assets/16f31135-1c4f-48c4-a382-c1376c5b1adc) ![PHP-logo svg](https://github.com/user-attachments/assets/76a6bfe9-6715-4b53-a85a-97beca1ee545) ![download](https://github.com/user-attachments/assets/e4bb6fc2-fe41-4337-becb-2982ec856f80) ![download](https://github.com/user-attachments/assets/2ccab695-3b59-4f3f-91ca-d96f162c5c61)
+- 💻 **Languages**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/af0ce974-bb72-4047-a02d-c6ccc05fc63e" width="200px">
+  <img src="https://github.com/user-attachments/assets/a114aa5b-0a5d-4201-8e00-62e35cfa42e9" width="200px">
+  <img src="https://github.com/user-attachments/assets/16f31135-1c4f-48c4-a382-c1376c5b1adc" width="200px">
+  <img src="https://github.com/user-attachments/assets/76a6bfe9-6715-4b53-a85a-97beca1ee545" width="200px">
+  <img src="https://github.com/user-attachments/assets/e4bb6fc2-fe41-4337-becb-2982ec856f80" width="200px">
+  <img src="https://github.com/user-attachments/assets/2ccab695-3b59-4f3f-91ca-d96f162c5c61" width="200px">
+</div>
 
 
 - ⚙️ **Frameworks & Tools**
